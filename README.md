@@ -151,7 +151,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/kannachann/KannaBOT-MD/
+git clone https://github.com/raflyverdy9/KannaBOT-MD/
 cd KannaBOT-MD
 npm install
 npm update
